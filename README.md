@@ -1,8 +1,8 @@
 // hello_world
 
-#include<stdio.h>
+#include <stdio.h>
 
-void main()
+int main()
 {
   printf("HELLO_WORLD");
 }
